@@ -1,10 +1,9 @@
 .fun-facts-box {
-  margin: 20px 15%;
-  width: 60%;
+  margin: auto;
+  width: 50%;
   background-color: #f9f9f9;
   border: 1px solid #ccc;
   padding: 20px;
-  margin: 20px 0;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1
 }
@@ -15,8 +14,8 @@
 .fun-facts-box ul{
   list-style-type: disc;
   padding-left: 20px;
-  padding-right: 20px;
 }
 .fun-facts-box li{
   margin-bottom: 8px;
+  padding-right: 20px;
 }
