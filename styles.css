@@ -1,21 +1,41 @@
+body {
+  background-color: #fef9f4;
+  color: #333333;
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4 {
+  color: #d27d56;
+}
+a {
+  color: #d27d56;
+  text-decoration: none;
+}
+a:hover {
+  color: #a8b9a0;
+}
+a:visited {
+  color: #333333;  
+}
 .fun-facts-box {
   margin: auto;
   width: 50%;
-  background-color: #f9f9f9;
+  background-color: #f1e5c8;
   border: 1px solid #ccc;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1
 }
-.fun-facts-box h2{
+.fun-facts-box h2 {
   font-sie: 1.5em;
   margin-bottom: 10px;
 }
-.fun-facts-box ul{
+.fun-facts-box ul {
   list-style-type: disc;
   padding-left: 20px;
 }
-.fun-facts-box li{
+.fun-facts-box li {
   margin-bottom: 8px;
   padding-right: 20px;
 }
