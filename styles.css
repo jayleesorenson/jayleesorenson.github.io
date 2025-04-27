@@ -8,6 +8,10 @@ body {
 h1, h2, h3, h4 {
   color: #b35336;
 }
+/*nav*/
+nav {
+  align: left;
+}
 /*links*/
 a {
   color: #b35336;
