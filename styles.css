@@ -10,7 +10,7 @@ h1, h2, h3, h4 {
 }
 /*nav*/
 nav {
-  align: left;
+  
 }
 /*links*/
 a {
@@ -19,9 +19,6 @@ a {
 }
 a:hover {
   color: #7b8b52;
-}
-a:visited {
-  color: #b35336;  
 }
 
 /*The page container*/
